@@ -1,0 +1,14 @@
+body {
+    background-color: pink;
+    border: 1px; color: black;
+    /*falta a borda arredondada 5px*/
+}
+
+p {
+    font-size: 1.2em;
+}
+
+footer {
+    text-align: center;
+    font-weight: bold;
+}
